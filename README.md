@@ -1,10 +1,15 @@
 <h1 align="center">Hi 👋, I'm Nicolas Becas</h1>
 <h3 align="center">I'm a computer science last year student who loves ML and making some fun apps</h3>
 
-- 🔭 I’m currently working on Capillar IT **Data Spaces**
+- 🔭 I’m currently working on Capillar IT **Logistics Optimization**
+
+- 🌱 I’m currently learning **Data Spaces**
+
+- 📫 How to reach me **nbecasazagra@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/nicolasbecas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nicolasbecas" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

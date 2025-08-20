@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on Capillar IT **Logistics Optimization**
 
-- 🌱 I’m currently learning **Data Spaces**
+- 🌱 I’m currently learning **Data Spaces** and **LLM**
 
 - 📫 How to reach me **nbecasazagra@gmail.com**
 

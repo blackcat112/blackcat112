@@ -7,6 +7,9 @@
 
 - 📫 How to reach me **nbecasazagra@gmail.com**
 
+
+**Currently designing a Rust+React application in my free times**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/nicolasbecas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nicolasbecas" height="30" width="40" /></a>

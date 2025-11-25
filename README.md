@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 🔭 I’m currently working on Capillar IT **Logistics Optimization**<br><br>- 🌱 I’m currently learning **ML** and **Data Scientist**<br><br>- 📫 How to reach me **nbecasazagra@gmail.com**<br><br>- 💬 Currently designing a Rust + ML application in my free times
+<br>- 🌱 I’m currently learning **ML** and **Data Scientist**<br><br>- 📫 How to reach me **nbecasazagra@gmail.com**<br><br>- 💬 Currently designing a Rust + ML application in my free times
 
 
 ## 🌐 Socials:
